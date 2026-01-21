@@ -1,8 +1,6 @@
 # Assignment-5
 # TASK 1
-students ={
-    "Alice":85
-}
+students ={"Alice":85, "Avishkar": 95}
 student_name = input('enter the student name:')
 
 if student_name in students:
